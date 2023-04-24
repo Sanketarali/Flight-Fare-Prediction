@@ -14,7 +14,7 @@ Model Creation: Model Creation is a crucial part of Machine learning project.Fir
                 SVR,RandomForestRegression,XGBRegressor and I did hyperparameter tuning of each model and XGBRegressor so i just kept only XGB 
                 for my model Training approach.
 
-Hyperparameter Tuning:I have done Hyperparameter tuning for XGB only and it helped me to get 89% r2 score and mean absolte error of 673
+
 
 Model Saving: I saved my model using pickle as model.pickle
 
